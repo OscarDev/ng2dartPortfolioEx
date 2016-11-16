@@ -1,0 +1,7 @@
+:host {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+.limited-width {
+    width: 50%;
+}
